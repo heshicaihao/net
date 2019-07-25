@@ -1,7 +1,7 @@
 package com.heshicaihao.net.RxOK.protocol;
 
 
-import com.sffix_app.net.RxOK.exception.ServerApiException;
+import com.heshicaihao.net.RxOK.exception.ServerApiException;
 
 /**
  * 聚合数据协议
